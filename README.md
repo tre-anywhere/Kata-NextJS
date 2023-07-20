@@ -1,4 +1,8 @@
-# Kata-NextJS
+# Branch Purpose
+
+Work with Data Fetching methods. Official Docs [here](https://nextjs.org/docs/app/building-your-application/data-fetching)
+
+## Kata-NextJS
 JavaScript Dojo Kata in NextJS. This will be connected to Trewaters BerkeleyJsDojo repo as an example of a NextJS Design patterns.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
